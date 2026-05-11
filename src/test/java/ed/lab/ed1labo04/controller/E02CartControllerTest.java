@@ -27,7 +27,7 @@ class E02CartControllerTest {
                 {
                     "cartItems": [
                         {
-                            "productId": 1,
+                              "productId": 1,
                             "quantity": 5
                         },
                         {
